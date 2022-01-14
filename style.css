@@ -20,7 +20,7 @@ h3{
 .flexiable-container{
     display:flex;
     margin-bottom: 100px;
-    background-color: ;
+    background-color:aliceblue;
 }
 
 .half-width{
@@ -39,4 +39,51 @@ h3{
     color:black;
     font-weight: 700;
     border-radius: 5px;
+}
+.work-skill{
+        background-image:url(Images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: left;
+}
+.skill-develope{
+    width: 40%;
+    border-radius:10px;
+    padding-left: 100px;
+    margin-left:5%;
+    margin-right: 5%;
+}
+#mission-develope-skill{
+    background-image: url(Images/illustrators/);
+    width:fit-content;
+    height: fit-content;
+    background-color: bisque;
+    margin-left: 2px; 
+    margin-right: 20px;
+    padding:auto;
+}
+#vission-develope-skill{
+    background-image: url(Images/illustrators/illustrator-2.png);
+    background-color: aquamarine;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 2px; 
+    margin-right: 20px;
+    padding:auto;
+}
+#goals-skill{
+    background-image: url(Image/illustrators/illustrator-3.png);
+    background-color:khaki;
+    margin-left: 2px; 
+    margin-right: 20px;
+    padding:auto;
+}
+.codding{
+    background-image: url(Images/pictures/coding.png);
+    background-repeat: no-repeat;
+    background-position:right;
+}
+footer p{
+    text-align: center;
+    background-color:black
+}
 }
